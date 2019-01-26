@@ -21,5 +21,6 @@ They're global because they are used by all commands in order to tell byebyte wh
 - You can only use `--min` and `--max` **or** `--start` and `--stop`.
 
 ### destroy mode
+parameter | meaning | default
 ----- | ----- | -----
 `-p, --probability` | probability | none, required
